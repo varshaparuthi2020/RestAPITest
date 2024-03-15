@@ -1,0 +1,8 @@
+[INFO ] 2023-12-18 15:38:19.258 [main] UserTests2 - **************Creating user****************
+[INFO ] 2023-12-18 15:38:23.395 [main] UserTests2 - **************User created****************
+[INFO ] 2023-12-18 15:38:23.407 [main] UserTests2 - **************Getting user****************
+[INFO ] 2023-12-18 15:38:24.975 [main] UserTests2 - **************User details fetched****************
+[INFO ] 2023-12-18 15:38:24.979 [main] UserTests2 - **************Updating user****************
+[INFO ] 2023-12-18 15:38:28.451 [main] UserTests2 - **************User updated successfully****************
+[INFO ] 2023-12-18 15:38:28.454 [main] UserTests2 - **************Deleting user****************
+[INFO ] 2023-12-18 15:38:31.977 [main] UserTests2 - **************User deleted successfully****************

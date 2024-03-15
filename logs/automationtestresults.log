@@ -1,0 +1,104 @@
+[INFO ] 2024-03-15 08:08:08.619 [main] UserTests2 - **************Creating user****************
+[INFO ] 2024-03-15 08:08:11.651 [main] UserTests2 - **************User created****************
+[INFO ] 2024-03-15 08:08:11.667 [main] UserTests2 - **************Getting user****************
+[INFO ] 2024-03-15 08:08:13.001 [main] UserTests2 - **************User details fetched****************
+[INFO ] 2024-03-15 08:08:13.004 [main] UserTests2 - **************Updating user****************
+[INFO ] 2024-03-15 08:08:15.916 [main] UserTests2 - **************User updated successfully****************
+[INFO ] 2024-03-15 08:08:15.921 [main] UserTests2 - **************Deleting user****************
+[INFO ] 2024-03-15 08:08:18.786 [main] UserTests2 - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:25:58.214 [main] UserTests2 - **************Creating user****************
+[INFO ] 2024-03-15 11:26:02.419 [main] UserTests2 - **************User created****************
+[INFO ] 2024-03-15 11:26:02.435 [main] UserTests2 - **************Getting user****************
+[INFO ] 2024-03-15 11:26:04.310 [main] UserTests2 - **************User details fetched****************
+[INFO ] 2024-03-15 11:26:04.312 [main] UserTests2 - **************Updating user****************
+[INFO ] 2024-03-15 11:26:08.783 [main] UserTests2 - **************User updated successfully****************
+[INFO ] 2024-03-15 11:26:08.787 [main] UserTests2 - **************Deleting user****************
+[INFO ] 2024-03-15 11:26:13.263 [main] UserTests2 - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:26:16.950 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 11:26:16.950 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 11:26:18.816 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 11:26:18.816 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 11:26:23.541 [main] PetTests - Assert successful for update pet api
+[INFO ] 2024-03-15 11:26:28.352 [main] PetTests - Assert successful for update pet api
+[INFO ] 2024-03-15 11:52:58.627 [main] UserTests - **************Creating user****************
+[INFO ] 2024-03-15 11:53:02.930 [main] UserTests - **************User created****************
+[INFO ] 2024-03-15 11:53:02.941 [main] UserTests - **************Getting user****************
+[INFO ] 2024-03-15 11:53:04.827 [main] UserTests - **************User details fetched****************
+[INFO ] 2024-03-15 11:53:04.828 [main] UserTests - **************Updating user****************
+[INFO ] 2024-03-15 11:53:08.432 [main] UserTests - **************User updated successfully****************
+[INFO ] 2024-03-15 11:53:08.433 [main] UserTests - **************Deleting user****************
+[INFO ] 2024-03-15 11:53:13.061 [main] UserTests - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:53:13.090 [main] UserTests2 - **************Creating user****************
+[INFO ] 2024-03-15 11:53:15.340 [main] UserTests2 - **************User created****************
+[INFO ] 2024-03-15 11:53:15.342 [main] UserTests2 - **************Getting user****************
+[INFO ] 2024-03-15 11:53:17.342 [main] UserTests2 - **************User details fetched****************
+[INFO ] 2024-03-15 11:53:17.343 [main] UserTests2 - **************Updating user****************
+[INFO ] 2024-03-15 11:53:21.130 [main] UserTests2 - **************User updated successfully****************
+[INFO ] 2024-03-15 11:53:21.132 [main] UserTests2 - **************Deleting user****************
+[INFO ] 2024-03-15 11:53:24.945 [main] UserTests2 - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:56:36.055 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 11:56:36.059 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 11:56:37.991 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 11:56:37.991 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 11:56:41.917 [main] PetTests - Assert successful for update pet api
+[INFO ] 2024-03-15 11:56:45.898 [main] PetTests - Assert successful for update pet api
+[INFO ] 2024-03-15 11:56:46.029 [main] UserTests - **************Creating user****************
+[INFO ] 2024-03-15 11:56:47.866 [main] UserTests - **************User created****************
+[INFO ] 2024-03-15 11:56:47.868 [main] UserTests - **************Getting user****************
+[INFO ] 2024-03-15 11:56:50.059 [main] UserTests - **************User details fetched****************
+[INFO ] 2024-03-15 11:56:50.060 [main] UserTests - **************Updating user****************
+[INFO ] 2024-03-15 11:56:54.069 [main] UserTests - **************User updated successfully****************
+[INFO ] 2024-03-15 11:56:54.071 [main] UserTests - **************Deleting user****************
+[INFO ] 2024-03-15 11:56:57.724 [main] UserTests - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:56:57.775 [main] UserTests2 - **************Creating user****************
+[INFO ] 2024-03-15 11:56:59.690 [main] UserTests2 - **************User created****************
+[INFO ] 2024-03-15 11:56:59.691 [main] UserTests2 - **************Getting user****************
+[INFO ] 2024-03-15 11:57:01.918 [main] UserTests2 - **************User details fetched****************
+[INFO ] 2024-03-15 11:57:01.919 [main] UserTests2 - **************Updating user****************
+[INFO ] 2024-03-15 11:57:07.339 [main] UserTests2 - **************User updated successfully****************
+[INFO ] 2024-03-15 11:57:07.340 [main] UserTests2 - **************Deleting user****************
+[INFO ] 2024-03-15 11:57:12.458 [main] UserTests2 - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:57:27.674 [main] UserTests - **************Creating user****************
+[INFO ] 2024-03-15 11:57:31.307 [main] UserTests - **************User created****************
+[INFO ] 2024-03-15 11:57:31.317 [main] UserTests - **************Getting user****************
+[INFO ] 2024-03-15 11:57:33.259 [main] UserTests - **************User details fetched****************
+[INFO ] 2024-03-15 11:57:33.260 [main] UserTests - **************Updating user****************
+[INFO ] 2024-03-15 11:57:37.901 [main] UserTests - **************User updated successfully****************
+[INFO ] 2024-03-15 11:57:37.903 [main] UserTests - **************Deleting user****************
+[INFO ] 2024-03-15 11:57:41.731 [main] UserTests - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:57:41.794 [main] UserTests2 - **************Creating user****************
+[INFO ] 2024-03-15 11:57:43.638 [main] UserTests2 - **************User created****************
+[INFO ] 2024-03-15 11:57:43.642 [main] UserTests2 - **************Getting user****************
+[INFO ] 2024-03-15 11:57:45.491 [main] UserTests2 - **************User details fetched****************
+[INFO ] 2024-03-15 11:57:45.492 [main] UserTests2 - **************Updating user****************
+[INFO ] 2024-03-15 11:57:50.473 [main] UserTests2 - **************User updated successfully****************
+[INFO ] 2024-03-15 11:57:50.474 [main] UserTests2 - **************Deleting user****************
+[INFO ] 2024-03-15 11:57:55.019 [main] UserTests2 - **************User deleted successfully****************
+[INFO ] 2024-03-15 11:57:58.541 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 11:57:58.542 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 11:58:00.607 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 11:58:00.608 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 11:58:05.379 [main] PetTests - Assert successful for update pet api
+[INFO ] 2024-03-15 11:58:09.141 [main] PetTests - Assert successful for update pet api
+[INFO ] 2024-03-15 12:03:02.410 [main] UserTests - **************Creating user****************
+[INFO ] 2024-03-15 12:03:05.955 [main] UserTests - **************User created****************
+[INFO ] 2024-03-15 12:03:05.967 [main] UserTests - **************Getting user****************
+[INFO ] 2024-03-15 12:03:07.915 [main] UserTests - **************User details fetched****************
+[INFO ] 2024-03-15 12:03:07.917 [main] UserTests - **************Updating user****************
+[INFO ] 2024-03-15 12:03:12.392 [main] UserTests - **************User updated successfully****************
+[INFO ] 2024-03-15 12:03:12.394 [main] UserTests - **************Deleting user****************
+[INFO ] 2024-03-15 12:03:17.317 [main] UserTests - **************User deleted successfully****************
+[INFO ] 2024-03-15 12:03:17.349 [main] UserTests2 - **************Creating user****************
+[INFO ] 2024-03-15 12:03:19.738 [main] UserTests2 - **************User created****************
+[INFO ] 2024-03-15 12:03:19.740 [main] UserTests2 - **************Getting user****************
+[INFO ] 2024-03-15 12:03:22.062 [main] UserTests2 - **************User details fetched****************
+[INFO ] 2024-03-15 12:03:22.063 [main] UserTests2 - **************Updating user****************
+[INFO ] 2024-03-15 12:03:26.200 [main] UserTests2 - **************User updated successfully****************
+[INFO ] 2024-03-15 12:03:26.202 [main] UserTests2 - **************Deleting user****************
+[INFO ] 2024-03-15 12:03:31.342 [main] UserTests2 - **************User deleted successfully****************
+[INFO ] 2024-03-15 12:03:34.873 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 12:03:34.873 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 12:03:37.021 [main] PetTests - Response will be receieved for create pet api
+[INFO ] 2024-03-15 12:03:37.022 [main] PetTests - Assert successful for create pet api
+[INFO ] 2024-03-15 12:03:42.263 [main] PetTests - Assert successful for update pet api
+[INFO ] 2024-03-15 12:03:46.383 [main] PetTests - Assert successful for update pet api
